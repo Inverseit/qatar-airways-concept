@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 const FirstClass = () => (
-  <div className="text-white relative h-min-full h-full min-h-dvh bg-qamain">
+  <div className="text-white relative h-min-full h-full bg-qamain">
     <div className="absolute md:top-0 left-0 md:w-1/2 rounded-lg  md:h-full bottom-0 h-1/2 w-full">
       {/* Image */}
       <div

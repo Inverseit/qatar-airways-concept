@@ -10,7 +10,7 @@ const Cool2 = () => (
               History
             </h2>
           </div>
-          <p className="mb-8 text-2xl md:text-3xl mt-4 w-2/5 text-shadow-[0_8px_10px_#747F8A]">
+          <p className="mb-8 text-2xl md:text-3xl mt-4 md:w-2/5 text-shadow-[0_8px_10px_#747F8A]">
           Explore the milestones that shaped modern aviation and discover the stories behind one of the world&apos;s leading airlines.
           </p>
         </div>

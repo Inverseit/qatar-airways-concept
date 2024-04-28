@@ -10,7 +10,7 @@ const Cafe = () => (
               Dining
             </h2>
           </div>
-          <p className="mb-8 text-2xl md:text-3xl mt-4 w-2/5 text-shadow-[0_8px_10px_#747F8A]">
+          <p className="mb-8 text-2xl md:text-3xl mt-4 md:w-2/5 text-shadow-[0_8px_10px_#747F8A]">
             Unwind in our museum&apos;s cafe, where aviation-themed decor meets a
             relaxed atmosphere, offering a unique place to refuel during your
             visit.
