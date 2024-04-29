@@ -25,7 +25,7 @@ export default function Home() {
       <Cool2/>
       <FirstClass/>
       <Cafe/>
-      <div className="h-50  text-center py-2 fixed z-50 bottom-0 w-full bg-qagray">
+      <div className="h-50  text-center p-2 fixed z-50 bottom-0 w-full bg-qagray">
         <p className="text-lg text-qamain">
           This is just a concept developed by Ulan Seitkaliyev for Arts in Qatar class. This is completely fictional and not related to Qatar Airways. Images are generated using AI.
         </p>
